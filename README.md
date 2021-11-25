@@ -1,1 +1,1 @@
-# class-19-ghost-template
+# ghost-runner
